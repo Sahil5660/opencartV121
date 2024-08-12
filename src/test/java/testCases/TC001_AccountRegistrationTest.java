@@ -13,7 +13,7 @@ import pageObjects.HomePage;
 import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
-
+ //Did some code modification
     @Test(groups = {"Sanity","Master"})
     public void AccRegTest() {
         logger.info("***********Initialized logs_ TC001_AccountRegistrationTest**************");
