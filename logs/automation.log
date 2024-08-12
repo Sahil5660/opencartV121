@@ -1,0 +1,6 @@
+2024-08-12 09:00:07 INFO  TC001_AccountRegistrationTest:19 - ***********Initialized logs_ TC001_AccountRegistrationTest**************
+2024-08-12 09:00:08 INFO  TC001_AccountRegistrationTest:25 - Click on My account
+2024-08-12 09:00:10 INFO  TC001_AccountRegistrationTest:28 - Click on registered link
+2024-08-12 09:00:10 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
+2024-08-12 09:00:13 INFO  TC001_AccountRegistrationTest:51 - Validating expected message------
+2024-08-12 09:00:15 INFO  TC001_AccountRegistrationTest:72 - ***********Finished TC_ TC001_AccountRegistrationTest**************
